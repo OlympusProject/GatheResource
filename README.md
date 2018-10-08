@@ -1,0 +1,2 @@
+# WarehouseRes
+resource for warehouse
